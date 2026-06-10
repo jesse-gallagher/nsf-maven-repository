@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="form" maintenanceversion="1.0" replicaid="85258ACB0062C233" version="14.5">
+<noteinfo noteid="226" sequence="178" unid="FFEB4D3E9839AC3785258ACB0062D9BE">
+<created><datetime>20240222T125942,70-05</datetime></created>
+<modified><datetime dst="true">20260609T153422,95-04</datetime></modified>
+<revised><datetime dst="true">20260609T153422,94-04</datetime></revised>
+<lastaccessed><datetime dst="true">20260609T153422,94-04</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20250617T182109,19-04</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Jesse Gallagher/O=IKSG</name></updatedby>
+<wassignedby><name>CN=Jesse Gallagher/O=IKSG</name></wassignedby>
+<item name="$Flags"><text>34567Cg~[</text></item>
+<item name="$TITLE"><text>api/maven/RepositoryService.java</text></item>
+
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>api/maven/RepositoryService.java</text></item>
+
+</note>

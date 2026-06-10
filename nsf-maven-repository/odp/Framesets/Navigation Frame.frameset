@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='14.5' maintenanceversion='1.0'
+ replicaid='85258ACB0062C233'>
+<noteinfo noteid='1c6' unid='8E064A048D982B5C85258ACB0072ABED' sequence='7'>
+<created><datetime>20240222T155231,17-05</datetime></created>
+<modified><datetime dst='true'>20250617T182108,96-04</datetime></modified>
+<revised><datetime>20240222T160431,00-05</datetime></revised>
+<lastaccessed><datetime dst='true'>20250617T182108,95-04</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20250617T182108,95-04</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Jesse Gallagher/O=MTC</name><name>CN=Jesse Gallagher/O=Frost</name><name
+>CN=Jesse Gallagher/O=IKSG</name></updatedby>
+<wassignedby><name>CN=Jesse Gallagher/O=IKSG</name></wassignedby>
+<item name='$TITLE' sign='true'><text>Navigation Frame</text></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$FrameSet' sign='true'>
+<rawitemdata type='1'>
+7/8YAAIAAwAAAAAAAAAAAAAAAAAAAAAA8P8+AEUAAAAAAAAAAAABAAEAAAAAAAUAAAAAAAUAAAAA
+AAIAAQAAAAAAAQAAAAAAAAABADEAAwAlAAMAAQDx/zQAEQAAAABAAAECAAEAAQAAAAAAAAAAAAAA
+AQAAAAAAAAABAP///woBAAAKAQAAAAAK9v8zAAAAAAADAAcAEQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AE5hdmlnYXRpb24gSGVhZGVyP/H/PQARAAAAAEAAAAMAAQABAAAAAAAAAAAACQABAAAAAAAAAE5v
+dGVzVmlldwEA////CgEAAAoBAAAAAAo/9v8pAAAAAAADAAcABwAAAAAAAAAAAAAAAAAAAAAAAAAA
+AE5hdlBhZ2U/
+</rawitemdata></item>
+<item name='$Flags'><text>#34CQ</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item></note>
+

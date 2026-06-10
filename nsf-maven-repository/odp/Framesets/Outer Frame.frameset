@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='14.5' maintenanceversion='1.0'
+ replicaid='85258ACB0062C233'>
+<noteinfo noteid='1ca' unid='DFC79644B289718685258ACB0072ABEE' sequence='7'>
+<created><datetime>20240222T155231,18-05</datetime></created>
+<modified><datetime dst='true'>20260609T102301,56-04</datetime></modified>
+<revised><datetime dst='true'>20260609T102301,55-04</datetime></revised>
+<lastaccessed><datetime dst='true'>20260609T102301,55-04</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20250617T182108,96-04</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Jesse Gallagher/O=MTC</name><name>CN=Jesse Gallagher/O=Frost</name><name
+>CN=Jesse Gallagher/O=IKSG</name></updatedby>
+<wassignedby><name>CN=Jesse Gallagher/O=IKSG</name></wassignedby>
+<item name='$TITLE' sign='true'><text>Outer Frame</text></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$FrameSet' sign='true'>
+<rawitemdata type='1'>
+7/8YAAIAAwAAAAAAAAAAAAAAAAAAAAAA8P8+AEUAAAABAAAAAAACAAIAAAAAAAUAAAAAAAUAAAAA
+AAEAAgAAAAAAAQAvLy8AAAADAAEAAQDVAAIAUgDx/0AAAQAAAABAAQADAAEAAQAAAAAAAwAAAAkA
+AQAvLy8AAABOYXZOb3Rlc1ZpZXcBAP///wABAAAKAQAAAAAA9v8yAAAAAAADAAYAEAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAE5hdmlnYXRpb24gRnJhbWXx/z0AAQEAAABAAAADAAEAAQAAAAAACQAAAAAA
+AQAvLy8AAABOb3Rlc1ZpZXcBAP///wABAAAKAQAAAAAAP/b/PgAAAAAAAwACAAUADAALAAAAAAAA
+AAAAS2FsZ2FuL0Zyb3N0ZGV2XG12bi5uc2YAAAAAAAAAAEZpbGVz
+</rawitemdata></item>
+<item name='$Flags'><text>#34CQ</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item>
+<item name='$DesignerBuild'><text>Build V1451_03042026</text></item></note>
+

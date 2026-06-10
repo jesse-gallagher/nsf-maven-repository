@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='14.5' maintenanceversion='1.0'
+ replicaid='85258ACB0062C233'>
+<noteinfo noteid='28a' unid='B68A907E73D099CD85258E11004EDE18' sequence='1'>
+<created><datetime dst='true'>20260609T102126,64-04</datetime></created>
+<modified><datetime dst='true'>20260609T102126,74-04</datetime></modified>
+<revised><datetime dst='true'>20260609T102126,73-04</datetime></revised>
+<lastaccessed><datetime dst='true'>20260609T112617,21-04</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20260609T102126,73-04</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Jesse Gallagher/O=IKSG</name></updatedby>
+<wassignedby><name>CN=Jesse Gallagher/O=IKSG</name></wassignedby>
+<item name='$FormatNote' summary='true' sign='true'>
+<rawitemdata type='4'>
+AQCU7G6FoWlsP/FjaADvdyWF
+</rawitemdata></item>
+<item name='$FormulaClass' sign='true'><text>1</text></item>
+<item name='$TITLE' sign='true'><text>(Files by Path)</text></item>
+<item name='$Index' sign='true'><text/></item>
+<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
+zAACAFAAAgAkNQUABgBQYXJlbnQFAAYAUGFyZW50AQABAC8ASAKvABgACgABAAAArgAOAAEAAQAv
+AK4ABAC1AyICBQAHACQkVGl0bGUAIgIDAAUAHgAZAAMAAgAJAAQAJDUkQ29uZmxpY3QkUkVGAAQA
+BAAAAEQABQAEAEZvcm0BAAQARmlsZQoCBQAEAEZvcm0BAAYARm9sZGVyCgIdAgQABQAJACRDb25m
+bGljdABoAR4BHAIDAAcAFAAOAAlMMVM1UzZTMTBTMTFT
+</formula></item>
+<item name='$Collation' summary='true'>
+<rawitemdata type='2'>
+DwABAABEgGYAAAACACQ1
+</rawitemdata></item>
+<item name='$ViewFormat' summary='true' sign='true'>
+<rawitemdata type='5'>
+AQABAAYAiEAAAFZDAQACAAQAbAAAAFAAAQAACgAAAAAAAAAAAAICAAAAJDVQYXRobAACAFAAAgAk
+NQUABgBQYXJlbnQFAAYAUGFyZW50AQABAC8ASAKvABgACgABAAAArgAOAAEAAQAvAK4ABAC1AyIC
+BQAHACQkVGl0bGUAIgIDAAcAGgATAAkxUzJTOFMxMVMxM1MxNVMxNlMAJgABAAAAAQEACQEAAAoB
+AQ4KAAA/AK0rAQABAAEAAAAAAAAAAABXQwEBAAkAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAD//wAA
+AAAAAAAAAAAAAAAAQgARAAAAAQD///8AAQDv7+8AAQD///8AAAAAAAAAAAABAP///wABAP///wAA
+AAEAAAAAAAEAAAAAAAEAAAAAAAAACAAAAAAAAQA=
+</rawitemdata></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$Flags'><text>PY</text></item>
+<item name='$V5ACTIONS' sign='true'>
+<rawitemdata type='1'>
+vRwjAAAAAQABAAAAAQAAAAAAAAAAAAAACAACAHn/bAABANTQyAABAAAAAAAJAAAAAAABANTQyAAA
+AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=
+</rawitemdata></item></note>
+
