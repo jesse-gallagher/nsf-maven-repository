@@ -10,7 +10,7 @@ This application requires Domino 14 or above and the [XPages Jakarta EE Support 
 
 ### Usage
 
-To use this application, deploy the NSF on your Domino server and configure its ACL as desired. The NSF contained a scheduled agent to prune snapshot versions other than the latest, and you should sign this and configure it to run on an appropriate server.
+To use this application, deploy the NSF on your Domino server and configure its ACL as desired. The NSF contained a scheduled agent to prune snapshot versions other than the latest, and you should sign this and configure it to run on an appropriate server. It'd also be a good idea to make sure DAOS is on for the NSF (`load compact -DAOS on mvn.nsf`) and the design index is up to date for DQL (`load updall -e mvn.nsf`).
 
 By default, the repository will be available with a base URL of "http(s)://yourserver.com/path/to/repo.nsf/xsp/repository" and can be configured as such in Maven commands and configurations.
 
