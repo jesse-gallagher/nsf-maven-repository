@@ -69,14 +69,11 @@ AAAAgAUAAAAA
       </file>
     </object>
   </item>
-  <item name="$JavaCompilerSource">
+  <item name="$JavaCompilerSource" sign="true">
     <text>1.8</text>
   </item>
-  <item name="$JavaCompilerTarget">
+  <item name="$JavaCompilerTarget" sign="true">
     <text>1.8</text>
-  </item>
-  <item name="$AssistVersion">
-    <datetime dst="true">20260625T153540,95-04</datetime>
   </item>
   <item name="$TITLE" sign="true">
     <text>Create DQL Indexes</text>
@@ -98,7 +95,7 @@ AAAAAAAAAAA=
   <item name="$AssistFlags" sign="true">
     <text>Es</text>
   </item>
-  <item name="$AssistTrigger">
+  <item name="$AssistTrigger" sign="true">
     <text>4</text>
   </item>
   <item name="$AssistInfo" sign="true">
@@ -129,9 +126,6 @@ gQI=
   <item name="$Flags">
     <text>fJj3</text>
   </item>
-  <item name="$DesignerBuild">
-    <text>Build V1451_03042026</text>
-  </item>
   <item name="$AssistRunInfo" summary="true">
     <rawitemdata type="3">
 BgABAAAACAAiSQEAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -154,5 +148,14 @@ qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqq
 </rawitemdata>
+  </item>
+  <item name="$Comment" sign="true">
+    <text>Maintenance agent only intended to construct DQL index views once</text>
+  </item>
+  <item name="$DesignerBuild" sign="true">
+    <text>Build V1451_03042026</text>
+  </item>
+  <item name="$AssistVersion">
+    <datetime dst="true">20260625T155606,67-04</datetime>
   </item>
 </note>

@@ -1,38 +1,38 @@
-<?xml version='1.0' encoding='utf-8'?>
-<note class='view' xmlns='http://www.lotus.com/dxl' version='14.5' maintenanceversion='1.0'
- replicaid='85258ACB0062C233'>
-<noteinfo noteid='286' unid='E02A0CD6C682F4FD85258E11004EDE17' sequence='3'>
-<created><datetime dst='true'>20260609T102126,63-04</datetime></created>
-<modified><datetime dst='true'>20260609T114217,46-04</datetime></modified>
-<revised><datetime dst='true'>20260609T114217,45-04</datetime></revised>
-<lastaccessed><datetime dst='true'>20260609T114217,45-04</datetime></lastaccessed>
-<addedtofile><datetime dst='true'>20260609T102126,69-04</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Jesse Gallagher/O=IKSG</name></updatedby>
-<wassignedby><name>CN=Jesse Gallagher/O=IKSG</name></wassignedby>
-<item name='$FormatNote' summary='true' sign='true'>
-<rawitemdata type='4'>
+<?xml version="1.0" encoding="UTF-8"?>
+<note class="view" xmlns="http://www.lotus.com/dxl">
+  <item name="$FormatNote" sign="true" summary="true">
+    <rawitemdata type="4">
 AQCU7G6FoWlsP/FjaADvdyWF
-</rawitemdata></item>
-<item name='$FormulaClass' sign='true'><text>1</text></item>
-<item name='$TITLE' sign='true'><text>(Files by Parent)</text></item>
-<item name='$Index' sign='true'><text/></item>
-<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
+</rawitemdata>
+  </item>
+  <item name="$FormulaClass" sign="true">
+    <text>1</text>
+  </item>
+  <item name="$TITLE" sign="true">
+    <text>(Files by Parent)</text>
+  </item>
+  <item name="$Index" sign="true">
+    <text/>
+  </item>
+  <item name="$Formula" sign="true" summary="true">
+    <formula compiled="true">
 CAECAEIAAgAkMwUABABGb3JtAQAGAEZvbGRlcgoCrwAiABAAAAAAAAAAAADwP64AEgAAAAAAAAAA
 AABArgAEALUDAwACAAwAAgAkNaAAAwAFAFwAWAAKAAYAAgAHAAIADAAMAAUABQAJAAQAUGFyZW50
 JDMkJFRpdGxlJDVEYXRlQ29tcG9zZWREYXRlTW9kaWZpZWRPd25lckdyb3VwJENvbmZsaWN0JFJF
 RgQABAAAAEQABQAEAEZvcm0BAAQARmlsZQoCBQAEAEZvcm0BAAYARm9sZGVyCgIdAgQABQAJACRD
 b25mbGljdABoAR4BHAIDAAcAFAAOAAlMMVM1UzZTMTBTMTFT
-</formula></item>
-<item name='$Collation' summary='true'>
-<rawitemdata type='2'>
+</formula>
+  </item>
+  <item name="$Collation" summary="true">
+    <rawitemdata type="2">
 HAACAABEiGYHAAAGAIBmAAYAAgBQYXJlbnQkMw==
-</rawitemdata></item>
-<item name='$Comment' sign='true'><text/></item>
-<item name='$Flags'><text>PY</text></item>
-<item name='$DesignerVersion'><text>8.5.3</text></item>
-<item name='$DesignerBuild'><text>Build V1451_03042026</text></item>
-<item name='$ViewFormat' sign='true'>
-<rawitemdata type='5'>
+</rawitemdata>
+  </item>
+  <item name="$Flags">
+    <text>PY</text>
+  </item>
+  <item name="$ViewFormat" sign="true">
+    <rawitemdata type="5">
 AQAIAAkAiEAAAFZDAwQGAAYAAAAAAFAAAQEACgABAAAAAAAAAAICAAAAVkMJAAIAAABQAAAACQAB
 AAAKAAAAAAAAAAAAAgIAAABWQwAABwAEAAAAAACtAAEAAAoAAAAAAAAAAAACAgAAAFZDAAACAAQA
 DgAAADMAAQAACgAAAAEQAAAAAAICAAAAVkMAAAwABwAAAAAAbAABAAAKAAAAAAAAAAAAAgIAAABW
@@ -53,12 +53,20 @@ AAABAAAAAAAAAAgAAAAAAAEAWEMADIACAAAAAAABAgICAQEBAQcEAwAAAAAAAAAAIC8vOlhDAAyA
 AgAAAAAAAQICAgEBAQEHBAMAAAAAAAAAACAvLzpZQwABEAAAAAEAAAABAAAAAAAAAAAAAAAAAAAA
 AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAALiwkYEMcAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBD
 HAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-</rawitemdata></item>
-<item name='$V5ACTIONS' sign='true'>
-<rawitemdata type='1'>
+</rawitemdata>
+  </item>
+  <item name="$V5ACTIONS" sign="true">
+    <rawitemdata type="1">
 vRwjAAAAAQABAAAAAQAAAAAAAAAAAAAACAACAHn/bAABANTQyAABAAAAAAAJAAAAAAABANTQyAAA
 AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=
-</rawitemdata></item></note>
-
+</rawitemdata>
+  </item>
+  <item name="$Comment" sign="true">
+    <text>Used by the NSF File Server layout</text>
+  </item>
+  <item name="$DesignerBuild" sign="true">
+    <text>Build V1451_03042026</text>
+  </item>
+</note>
