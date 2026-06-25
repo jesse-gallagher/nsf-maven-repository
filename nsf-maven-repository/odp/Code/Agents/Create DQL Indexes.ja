@@ -1,19 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<note class='filter' xmlns='http://www.lotus.com/dxl' version='14.5' maintenanceversion='1.0'
- replicaid='85258ACB0062C233'>
-<noteinfo noteid='129f6' unid='B03B47DA61A99F1085258E18007134A2' sequence='10'>
-<created><datetime dst='true'>20260616T163630,42-04</datetime></created>
-<modified><datetime dst='true'>20260616T164329,50-04</datetime></modified>
-<revised><datetime dst='true'>20260616T164329,49-04</datetime></revised>
-<lastaccessed><datetime dst='true'>20260616T164329,49-04</datetime></lastaccessed>
-<addedtofile><datetime dst='true'>20260616T163630,44-04</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Jesse Gallagher/O=IKSG</name></updatedby>
-<wassignedby><name>CN=Jesse Gallagher/O=IKSG</name></wassignedby>
-<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
- compression='none' flags='sign' encoding='none' name='%%source%%.jar' size='653'>
-<created><datetime dst='true'>20260616T163630,65-04</datetime></created>
-<modified><datetime dst='true'>20260616T164329,46-04</datetime></modified><filedata
->
+<?xml version="1.0" encoding="UTF-8"?>
+<note class="filter" xmlns="http://www.lotus.com/dxl">
+  <item name="$FILE" seal="true" sign="true" summary="true">
+    <object>
+      <file compression="none" encoding="none" flags="sign"
+        hosttype="msdos" name="%%source%%.jar" size="653">
+        <created>
+          <datetime dst="true">20260616T163630,65-04</datetime>
+        </created>
+        <modified>
+          <datetime dst="true">20260616T164329,46-04</datetime>
+        </modified>
+        <filedata>
 UEsDBBQACAgIAG6F0FwAAAAAAAAAAAAAAAAOAAAASmF2YUFnZW50LmphdmGVVMtu2zAQPKtA/4Ew
 cqCLlL038KF5AQ3QJoUN9ExTa4cqRarkKrJR+N/LpyPFRZEAtqnlzszOUkvLtjMWScOfOJOGPVip
 8aeVCPbi/Ts5TS7RZ7fH7DEvTMvkumV+bY12rEepAr5xRrM7/3PnBW65QGP3F29j3a8bEPgG0gO3
@@ -26,12 +23,21 @@ TGqHXAu42Z1P6+difirp+G+BDL6QhoGMN+k8D3gyl5FNgT7v0WHafdUMzA9q8ktz/VFuo3r3WPpO
 ZzUZ7CGnDmniDkRwFI+E3uwEdBiGGoozSKQlcvFrZbkA6oUS3bPD9/AXUEsHCGk6lJL/AQAAKwUA
 AFBLAQIUABQACAgIAG6F0FxpOpSS/wEAACsFAAAOAAAAAAAAAAAAAAAAAAAAAABKYXZhQWdlbnQu
 amF2YVBLBQYAAAAAAQABADwAAAA7AgAAAAA=
-</filedata></file></object></item>
-<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
- compression='none' flags='sign' encoding='none' name='%%object%%.jar' size='1507'>
-<created><datetime dst='true'>20260616T163630,67-04</datetime></created>
-<modified><datetime dst='true'>20260616T164329,46-04</datetime></modified><filedata
->
+</filedata>
+      </file>
+    </object>
+  </item>
+  <item name="$FILE" seal="true" sign="true" summary="true">
+    <object>
+      <file compression="none" encoding="none" flags="sign"
+        hosttype="msdos" name="%%object%%.jar" size="1507">
+        <created>
+          <datetime dst="true">20260616T163630,67-04</datetime>
+        </created>
+        <modified>
+          <datetime dst="true">20260616T164329,46-04</datetime>
+        </modified>
+        <filedata>
 UEsDBBQACAgIAG6F0FwAAAAAAAAAAAAAAAAPAAAASmF2YUFnZW50LmNsYXNzlVVZdxRFFP4qW/XM
 dICEJKRZAwTIZBuXuPVElASi4CQEE4MEUTo9naRDT/fQ3UMm7vu+y5svvnjQN/HoxMg56It6jr9D
 HvUH+CDeqpkJJEwMnump7lu37ld3q69+/+fHqwD6cJGjiiFyzLhgHJqx3JCjhqHF8cJckEh7Gdv1
@@ -59,44 +65,66 @@ XiygnZD34SKt/BwH8AXitE8nIXfjGln+SeUSFZlGVGS9VJH9uIoX8CLVpAeL5NHLVMM+fINX8Cr5
 0cvRx3GQ42OO0xy+fM4Ipf83YgP0qq+/LpqMi87iyItm+VQ21mf/AlBLBwiyZ+9wUwUAAHcKAABQ
 SwECFAAUAAgICABuhdBcsmfvcFMFAAB3CgAADwAAAAAAAAAAAAAAAAAAAAAASmF2YUFnZW50LmNs
 YXNzUEsFBgAAAAABAAEAPQAAAJAFAAAAAA==
-</filedata></file></object></item>
-<item name='$JavaCompilerSource'><text>1.8</text></item>
-<item name='$JavaCompilerTarget'><text>1.8</text></item>
-<item name='$AssistVersion'><datetime dst='true'>20260616T164329,47-04</datetime></item>
-<item name='$TITLE' sign='true'><text>Set up index</text></item>
-<item name='$AssistType' sign='true'><number>65427</number></item>
-<item name='$AssistLastRun' sign='true'>
-<rawitemdata type='400'>
+</filedata>
+      </file>
+    </object>
+  </item>
+  <item name="$JavaCompilerSource" sign="true">
+    <text>1.8</text>
+  </item>
+  <item name="$JavaCompilerTarget" sign="true">
+    <text>1.8</text>
+  </item>
+  <item name="$AssistType" sign="true">
+    <number>65427</number>
+  </item>
+  <item name="$AssistLastRun" sign="true">
+    <rawitemdata type="400">
 AAAAAAAAAAA=
-</rawitemdata></item>
-<item name='$AssistDocCount' sign='true'><number>0</number></item>
-<item name='$FlagsExt' sign='true'><text>D</text></item>
-<item name='$AssistFlags' sign='true'><text>Es</text></item>
-<item name='$AssistTrigger'><text>4</text></item>
-<item name='$AssistInfo' sign='true'>
-<rawitemdata type='11'>
+</rawitemdata>
+  </item>
+  <item name="$AssistDocCount" sign="true">
+    <number>0</number>
+  </item>
+  <item name="$FlagsExt" sign="true">
+    <text>D</text>
+  </item>
+  <item name="$AssistFlags" sign="true">
+    <text>Es</text>
+  </item>
+  <item name="$AssistTrigger" sign="true">
+    <text>4</text>
+  </item>
+  <item name="$AssistInfo" sign="true">
+    <rawitemdata type="11">
 AQAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-</rawitemdata></item>
-<item name='$AssistQuery' sign='true'>
-<rawitemdata type='f'>
+</rawitemdata>
+  </item>
+  <item name="$AssistQuery" sign="true">
+    <rawitemdata type="f">
 gQYAAAAA
-</rawitemdata></item>
-<item name='$AssistAction' sign='true'>
-<rawitemdata type='10'>
+</rawitemdata>
+  </item>
+  <item name="$AssistAction" sign="true">
+    <rawitemdata type="10">
 gQKT/04ADwANAB8AAQAAAAAAAABKYXZhQWdlbnQuY2xhc3NjOlxOb3Rlc1xEYXRhJSVzb3VyY2Ul
 JS5qYXIAJSVvYmplY3QlJS5qYXIAAAA=
-</rawitemdata></item>
-<item name='$AssistAction_Ex' sign='true'>
-<rawitemdata type='14'>
+</rawitemdata>
+  </item>
+  <item name="$AssistAction_Ex" sign="true">
+    <rawitemdata type="14">
 gQI=
-</rawitemdata></item>
-<item name='$Restricted' sign='true'><number>1</number></item>
-<item name='$Flags'><text>fJj3</text></item>
-<item name='$DesignerVersion'><text>8.5.3</text></item>
-<item name='$DesignerBuild'><text>Build V1451_03042026</text></item>
-<item name='$AssistRunInfo' summary='true'>
-<rawitemdata type='3'>
+</rawitemdata>
+  </item>
+  <item name="$Restricted" sign="true">
+    <number>1</number>
+  </item>
+  <item name="$Flags">
+    <text>fJj3</text>
+  </item>
+  <item name="$AssistRunInfo" summary="true">
+    <rawitemdata type="3">
 BgABAAAACACiKgEAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAU9hxABiOJYXLyHoArIwlhQAAAAAAAAAAAAAAAAAAAAAAAAAAzrkfOanu
 euuQbeW9FNqKG6cN/nQawZ28fqWnySVSdvNsdkDdii/a43PxH6DQBsYxp2wn9KoTdO2s8QlGFbbe
@@ -116,5 +144,15 @@ qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqq
-</rawitemdata></item></note>
-
+</rawitemdata>
+  </item>
+  <item name="$TITLE" sign="true">
+    <text>Create DQL Indexes</text>
+  </item>
+  <item name="$DesignerBuild" sign="true">
+    <text>Build V1451_03042026</text>
+  </item>
+  <item name="$AssistVersion">
+    <datetime dst="true">20260625T142347,48-04</datetime>
+  </item>
+</note>
