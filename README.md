@@ -10,9 +10,11 @@ This application requires Domino 14 or above and the [XPages Jakarta EE Support 
 
 ### Usage
 
-To use this application, deploy the NSF on your Domino server and configure its ACL as desired. By default, the repository will be available with a base URL of "http(s)://yourserver.com/path/to/repo.nsf/xsp/repository" and can be configured as such in Maven commands and configurations.
+To use this application, deploy the NSF on your Domino server and configure its ACL as desired. The NSF contained a scheduled agent to prune snapshot versions other than the latest, and you should sign this and configure it to run on an appropriate server.
 
-Due to limitations in Domino's XPages environment, if you intend to access or deploy any artifacts with ".xsp" in their artifact IDs, you must configure the deployed NSF as a Jakarta Module in the XPage JEE project's "jakartaconfig.nsf". Refer to that project for documentation. When configured this way, the repository will be available with a base URL of "http(s)://yourserver.com/mappedpath/repository".
+By default, the repository will be available with a base URL of "http(s)://yourserver.com/path/to/repo.nsf/xsp/repository" and can be configured as such in Maven commands and configurations.
+
+Due to limitations in Domino's XPages environment, if you intend to access or deploy any artifacts with ".xsp" in their artifact or gruop IDs, you must configure the deployed NSF as a Jakarta Module in the XPage JEE project's "jakartaconfig.nsf". Refer to that project for documentation. When configured this way, the repository will be available with a base URL of "http(s)://yourserver.com/mappedpath/repository".
 
 The layout of documents inside the NSF is compatible with the "NSF Document Layout" type of the [NSF File Server](https://github.com/IKSG/nsf-file-server/) project.
 
