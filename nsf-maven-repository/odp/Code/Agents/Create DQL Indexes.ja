@@ -3,26 +3,26 @@
   <item name="$FILE" seal="true" sign="true" summary="true">
     <object>
       <file compression="none" encoding="none" flags="sign"
-        hosttype="msdos" name="%%source%%.jar" size="653">
+        hosttype="msdos" name="%%source%%.jar" size="644">
         <created>
           <datetime dst="true">20260616T163630,65-04</datetime>
         </created>
         <modified>
-          <datetime dst="true">20260616T164329,46-04</datetime>
+          <datetime dst="true">20260625T153540,94-04</datetime>
         </modified>
         <filedata>
-UEsDBBQACAgIAG6F0FwAAAAAAAAAAAAAAAAOAAAASmF2YUFnZW50LmphdmGVVMtu2zAQPKtA/4Ew
-cqCLlL038KF5AQ3QJoUN9ExTa4cqRarkKrJR+N/LpyPFRZEAtqnlzszOUkvLtjMWScOfOJOGPVip
-8aeVCPbi/Ts5TS7RZ7fH7DEvTMvkumV+bY12rEepAr5xRrM7/3PnBW65QGP3F29j3a8bEPgG0gO3
-buz9v4QYBNZpT8pg71htWqkN+xAzXb9WUhChuHMkmPuyBY0Edgi6diRGl9wB+RPQ1egoiekxSlRZ
-48nImnw3CO4bl5rOA6WqPIosyBYwSt332PVI54lYod0nVICxLogrTWdXRvvy+HG17+AzQW/mU6e8
-5izwXoDz1qnI1pD4mY0RS3BOGk1cXqOzvFmkotFoYYeEj4NF4bHST84cG6quOfJ1OK+6PCwmGoF5
-1Vvrdwq01L2O7+VHD/5Q6t/KE4sGExY4wggwaduDM+KrrmFHZ7fGtvFxdk5i4NcNVw7yksknPD9n
-3teRmcJXclcSFRypZ2cx/jc3vYl474gMDHA5WoTGmZIumQBX+pxencLyeDrNzJ+vC9tY04aQvrit
-TGqHXAu42Z1P6+difirp+G+BDL6QhoGMN+k8D3gyl5FNgT7v0WHafdUMzA9q8ktz/VFuo3r3WPpO
-ZzUZ7CGnDmniDkRwFI+E3uwEdBiGGoozSKQlcvFrZbkA6oUS3bPD9/AXUEsHCGk6lJL/AQAAKwUA
-AFBLAQIUABQACAgIAG6F0FxpOpSS/wEAACsFAAAOAAAAAAAAAAAAAAAAAAAAAABKYXZhQWdlbnQu
-amF2YVBLBQYAAAAAAQABADwAAAA7AgAAAAA=
+UEsDBBQACAgIAHR82VwAAAAAAAAAAAAAAAAOAAAASmF2YUFnZW50LmphdmGVU01v2zAMPXvA/oMQ
+9KAMnXZfkcPWD2AFtnZIgJ0VmUnlyZIn0Y2DIf99+nTtdhjWgy2TfI98lEnZdsYiafgjZ9Kweys1
+/rASwV68fSPnwTX66H6MjnFhWia3LfNna7RjPUoV8I0zmt36161PcMMFGnu8eB3rbtuAwFeQ7rl1
+U+3/JEQjsF72pAz2jtWmldqwdzHS9VslBRGKO0eCuE970EhgQNC1I9H6zB2Q3wFdTa6SmB5jiirn
+eDSyJt8MgvvKpabLQKkqjyIrsgeMqe567Hqky0Ss0B4TKsBYF5IrTReXRvvy+H5z7OAjQS/mQ6d8
+zkXgPQNnV3ytwTlpNHH5jHWzswCjjFhgQMKnxqrwWFGbI6Pc6ooj34bbqMvHapYjMC97a72nQEvd
+q3jr33vwLde/lCeWHExY4AgTwKwpD86IL7qGgS5ujG3j5+KcRMOfO64c5COTX/D8FHldIzOZ/8nd
+SFQwUs/Oov13bvoTcauIDAxw2VqFxpmSLokAV/qcL0ZheTydR5ZPy8B21rTBpM92kUntkGsB18P5
+vH4u5meOTpeeHHwhDQcyddJlHt8kLiObAn3y0cO8+6o5MD+eSS/N9SexnerdQ+k73dVsnA85dEoT
+dyKCo3gg9HoQ0GEYaijKIJHWyMXPjeUCqE+U6J4dntMfUEsHCJxgs2v2AQAACQUAAFBLAQIUABQA
+CAgIAHR82VycYLNr9gEAAAkFAAAOAAAAAAAAAAAAAAAAAAAAAABKYXZhQWdlbnQuamF2YVBLBQYA
+AAAAAQABADwAAAAyAgAAAAA=
 </filedata>
       </file>
     </object>
@@ -30,50 +30,56 @@ amF2YVBLBQYAAAAAAQABADwAAAA7AgAAAAA=
   <item name="$FILE" seal="true" sign="true" summary="true">
     <object>
       <file compression="none" encoding="none" flags="sign"
-        hosttype="msdos" name="%%object%%.jar" size="1507">
+        hosttype="msdos" name="%%object%%.jar" size="1491">
         <created>
           <datetime dst="true">20260616T163630,67-04</datetime>
         </created>
         <modified>
-          <datetime dst="true">20260616T164329,46-04</datetime>
+          <datetime dst="true">20260625T153540,94-04</datetime>
         </modified>
         <filedata>
-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
-YXNzUEsFBgAAAAABAAEAPQAAAJAFAAAAAA==
+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
+AAAAgAUAAAAA
 </filedata>
       </file>
     </object>
   </item>
-  <item name="$JavaCompilerSource" sign="true">
+  <item name="$JavaCompilerSource">
     <text>1.8</text>
   </item>
-  <item name="$JavaCompilerTarget" sign="true">
+  <item name="$JavaCompilerTarget">
     <text>1.8</text>
+  </item>
+  <item name="$AssistVersion">
+    <datetime dst="true">20260625T153540,95-04</datetime>
+  </item>
+  <item name="$TITLE" sign="true">
+    <text>Create DQL Indexes</text>
   </item>
   <item name="$AssistType" sign="true">
     <number>65427</number>
@@ -92,7 +98,7 @@ AAAAAAAAAAA=
   <item name="$AssistFlags" sign="true">
     <text>Es</text>
   </item>
-  <item name="$AssistTrigger" sign="true">
+  <item name="$AssistTrigger">
     <text>4</text>
   </item>
   <item name="$AssistInfo" sign="true">
@@ -123,21 +129,24 @@ gQI=
   <item name="$Flags">
     <text>fJj3</text>
   </item>
+  <item name="$DesignerBuild">
+    <text>Build V1451_03042026</text>
+  </item>
   <item name="$AssistRunInfo" summary="true">
     <rawitemdata type="3">
-BgABAAAACACiKgEAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAU9hxABiOJYXLyHoArIwlhQAAAAAAAAAAAAAAAAAAAAAAAAAAzrkfOanu
-euuQbeW9FNqKG6cN/nQawZ28fqWnySVSdvNsdkDdii/a43PxH6DQBsYxp2wn9KoTdO2s8QlGFbbe
-GnFFP1dEvpCBdjh5Get6taVyLyDdSOfH8/yXEA+BddzCkddaHLxobKeNFW9iph9WrVZMtdJ7Fpr7
-tAGDDPYIpvEsnj5LD+xPQFej5TM7YJSossa91Q37ZhH8V6kNnwVKVRGKLdgGMEpdD9gPyGeJWKE7
-JFSAiT6It4bXp9ZQeXx7e+jhPUNq5l3fkmYdeE/AOfSvyMay+KnHiCV4r61hPl9jZzlYpGKjsYU9
-Mjk+LApPlHly5jhQdSZRrsK+mnKzmGgE5ungHEUKtNQ9i8/l+wC0lOZ3S8SiIZQDiTACTMZO5v2Q
-vP+R0cPpPLEN7Ng0xYP9hV3zmhxFHdSzLEPlco1L08Ce1xe6BR/v6zkr6Dlby9ZDvkzWGvWZDgTw
-+bQIU4iWSl6meGl6+h4UFuH5NDN79L5YO9uFI3/y6gltPEqj4Hw/n9bPxchifPyvwHZ5NeMgn2W3
-puYyclugjzG+m05fbXeCXJf65bn+KLduB39X5k67mrh0l1MPyT4PTElUd4yf7xX0GBwKpTNIpCVK
-9evWSQWchBKd2OH78BdQSwcIHSWImxACAAAqBQAAUEsBAhQAFAAICAgAL4XQXB0liJsQAgAAKgUA
-AA4AAAAAAAAAAAAAAAAAAAAAAEphdmFBZ2VudC5qYXZhUEsFBgAAAAABAAEAPAAAAEwCAAAAAAA9
-AAAAVgIAAAAAqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+BgABAAAACAAiSQEAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAD6NrACGOJYXLyHoArIwlhQAAAAAAAAAAAAAAAAAAAAAAAAAAqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
@@ -145,14 +154,5 @@ qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqq
 </rawitemdata>
-  </item>
-  <item name="$TITLE" sign="true">
-    <text>Create DQL Indexes</text>
-  </item>
-  <item name="$DesignerBuild" sign="true">
-    <text>Build V1451_03042026</text>
-  </item>
-  <item name="$AssistVersion">
-    <datetime dst="true">20260625T142347,48-04</datetime>
   </item>
 </note>
