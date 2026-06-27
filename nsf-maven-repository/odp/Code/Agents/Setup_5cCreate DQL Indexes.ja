@@ -75,9 +75,6 @@ AAAAgAUAAAAA
   <item name="$JavaCompilerTarget" sign="true">
     <text>1.8</text>
   </item>
-  <item name="$TITLE" sign="true">
-    <text>Create DQL Indexes</text>
-  </item>
   <item name="$AssistType" sign="true">
     <number>65427</number>
   </item>
@@ -152,10 +149,13 @@ qqqqqqqqqqqqqqqqqqqqqqqq
   <item name="$Comment" sign="true">
     <text>Maintenance agent only intended to construct DQL index views once</text>
   </item>
+  <item name="$TITLE" sign="true">
+    <text>Setup\Create DQL Indexes</text>
+  </item>
   <item name="$DesignerBuild" sign="true">
     <text>Build V1451_03042026</text>
   </item>
   <item name="$AssistVersion">
-    <datetime dst="true">20260625T155606,67-04</datetime>
+    <datetime dst="true">20260627T140701,20-04</datetime>
   </item>
 </note>
