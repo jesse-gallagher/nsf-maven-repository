@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note class="filter" xmlns="http://www.lotus.com/dxl">
+  <item name="$AssistType" sign="true">
+    <number>65426</number>
+  </item>
+  <item name="$AssistLastRun" sign="true">
+    <rawitemdata type="400">
+AAAAAAAAAAA=
+</rawitemdata>
+  </item>
+  <item name="$AssistDocCount" sign="true">
+    <number>0</number>
+  </item>
+  <item name="$Comment" sign="true">
+    <text/>
+  </item>
+  <item name="$FlagsExt" sign="true">
+    <text/>
+  </item>
+  <item name="$AssistFlags" sign="true">
+    <text>Es</text>
+  </item>
+  <item name="$AssistTrigger" sign="true">
+    <text>4</text>
+  </item>
+  <item name="$AssistInfo" sign="true">
+    <rawitemdata type="11">
+AQAEAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+</rawitemdata>
+  </item>
+  <item name="$AssistQuery" sign="true">
+    <rawitemdata type="f">
+gQYAAAAA
+</rawitemdata>
+  </item>
+  <item name="$AssistAction" sign="true">
+    <rawitemdata type="10">
+gQKE/ygAAAAAAB4AHgAIAAgAvQADAAAACABmAAMABwAMAAYACTBSTDFT
+</rawitemdata>
+  </item>
+  <item name="$AssistAction_Ex" sign="true">
+    <rawitemdata type="14">
+gQI=
+</rawitemdata>
+  </item>
+  <item name="$Restricted" sign="true">
+    <number>1</number>
+  </item>
+  <item name="$Flags">
+    <text>f3</text>
+  </item>
+  <item name="$AssistRunInfo" summary="true">
+    <rawitemdata type="3">
+BgABAAAACAA+HAcAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAwp1jACOOJYXLyHoArIwlhQAAAAAAAAAAAAAAAAAAAAAAAAAAU3RhcnRl
+ZCBydW5uaW5nIGFnZW50ICdQdXJnZSBKdW5rIEZpbGVzJyBvbiAwNi8yNy8yMDI2IDAyOjA0OjU5
+IFBNDQpSdW5uaW5nIG9uIGFsbCBkb2N1bWVudHMgaW4gZGF0YWJhc2U6IDM0NzQyIHRvdGFsDQpG
+b3VuZCAxMiBkb2N1bWVudChzKSB0aGF0IG1hdGNoIHNlYXJjaCBjcml0ZXJpYQ0KMTIgZG9jdW1l
+bnQocykgd2VyZSBtb2RpZmllZCBieSBmb3JtdWxhDQpEZWxldGVkIDEyIGRvY3VtZW50KHMpDQpE
+b25lIHJ1bm5pbmcgYWdlbnQgJ1B1cmdlIEp1bmsgRmlsZXMnIG9uIDA2LzI3LzIwMjYgMDI6MDQ6
+NTkgUE0NCgANCgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAA
+</rawitemdata>
+  </item>
+  <item name="$TITLE" sign="true">
+    <text>Troubleshooting\Delete All Documents|DeleteAll</text>
+  </item>
+  <item name="$DesignerBuild" sign="true">
+    <text>Build V1451_03042026</text>
+  </item>
+  <item name="$AssistVersion">
+    <datetime dst="true">20260627T140813,28-04</datetime>
+  </item>
+</note>
