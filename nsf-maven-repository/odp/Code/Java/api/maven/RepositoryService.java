@@ -133,7 +133,6 @@ public class RepositoryService {
 		
 		var parentPathStr = parentPath.stream().skip(1).map(Object::toString).collect(Collectors.joining("/"));
 		
-		System.out.println("Looking for /" + parentPathStr + ", " + myPath.get(myPath.size()-1));
 		if(folderRepository.findByParentAndName("/" + parentPathStr, myPath.get(myPath.size()-1).toString()).isEmpty()) {
 			throw new NotFoundException();
 		}
@@ -197,7 +196,6 @@ public class RepositoryService {
 					folderPath = AppPathUtil.concat('/', folderPath, parts[i]);
 					Optional<Folder> optFolder = folderRepository.findByParentAndName(folderParentPath, parts[i]);
 					if(!optFolder.isPresent()) {
-						//System.out.println("making new folder parent=" + folderParentPath + "; name=" + parts[i]);
 						Folder folder = new Folder();
 						folder.setParent(folderParentPath);
 						folder.setName(parts[i]);
