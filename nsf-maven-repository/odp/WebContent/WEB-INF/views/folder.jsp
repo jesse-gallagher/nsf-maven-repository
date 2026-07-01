@@ -2,7 +2,7 @@
 <%@taglib prefix="t" tagdir="/WEB-INF/tags" %>
 <%@taglib prefix="c" uri="jakarta.tags.core" %>
 <%@taglib prefix="fn" uri="jakarta.tags.functions" %>
-<t:layout>
+<t:layout title="${folderPath}">
 	<h1>Listing <c:out value="${folderPath}"/></h1>
 
 	<ul>

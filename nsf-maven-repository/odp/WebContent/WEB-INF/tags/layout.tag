@@ -2,6 +2,7 @@
 <%@taglib prefix="t" tagdir="/WEB-INF/tags" %>
 <%@taglib prefix="c" uri="jakarta.tags.core" %>
 <%@taglib prefix="fn" uri="jakarta.tags.functions" %>
+<%@attribute name="title" required="true" type="java.lang.String" %>
 <!DOCTYPE html>
 <html lang="${translation._lang}">
 	<head>
@@ -13,7 +14,7 @@
 		
 		<link rel="stylesheet" href="css/style.css" />
 		
-		<title><c:out value="${translation.appTitle}"/></title>
+		<title><c:out value="${messages.format('appTitleFull', translation.appTitle, pageScope.title)}"/></title>
 	</head>
 	<body>
 		<jsp:doBody />
