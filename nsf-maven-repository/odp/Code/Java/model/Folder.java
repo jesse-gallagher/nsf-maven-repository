@@ -1,6 +1,7 @@
 package model;
 
 import java.util.Optional;
+import java.util.stream.Stream;
 
 import org.openntf.xsp.jakarta.nosql.mapping.extension.DominoRepository;
 import org.openntf.xsp.jakarta.nosql.mapping.extension.ItemFlags;
@@ -13,6 +14,8 @@ import jakarta.nosql.Id;
 public class Folder {
 	public interface Repository extends DominoRepository<Folder, String> {
 		Optional<Folder> findByParentAndName(String parent, String name);
+		
+		Stream<Folder> findByParent(String parent);
 	}
 	
 

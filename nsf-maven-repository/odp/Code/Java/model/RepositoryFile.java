@@ -12,11 +12,14 @@ import jakarta.nosql.Id;
 
 import java.util.List;
 import java.util.Optional;
+import java.util.stream.Stream;
 
 @Entity("File")
 public class RepositoryFile {
 	public interface Repository extends DominoRepository<RepositoryFile, String> {
 		Optional<RepositoryFile> findByParentAndName(String parent, String name);
+		
+		Stream<RepositoryFile> findByParent(String parent);
 	}
 	
 	@Id private String documentId;

@@ -1,0 +1,65 @@
+package bean;
+
+import java.text.DateFormatSymbols;
+import java.text.MessageFormat;
+import java.util.ResourceBundle;
+
+import jakarta.enterprise.context.RequestScoped;
+import jakarta.enterprise.inject.Produces;
+import jakarta.inject.Inject;
+import jakarta.inject.Named;
+import jakarta.servlet.http.HttpServletRequest;
+
+@RequestScoped
+public class TranslationBean {
+	@Inject
+	HttpServletRequest request;
+
+	@Produces @Named("translation")
+	public ResourceBundle getTranslation() {
+		return ResourceBundle.getBundle("translation", request.getLocale()); //$NON-NLS-1$
+	}
+
+	@RequestScoped
+	@Named("messages")
+	public static class Messages {
+		@Inject
+		HttpServletRequest request;
+		
+		@Inject
+		@Named("translation")
+		private ResourceBundle translation;
+
+		public String format(final String key, final Object... params) {
+			String message = translation.getString(key);
+			return MessageFormat.format(message, params);
+		}
+		
+		public String formatStatic(String message, Object... params) {
+			return MessageFormat.format(message, params);
+		}
+		
+		/**
+		 * Formats the keyed message from the translation bundle with the provided
+		 * parameters if they key exists. If it doesn't, this returns the key
+		 * itself.
+		 * 
+		 * @param key the key to look up in the translation bundle
+		 * @param params the parameters to use when formatting
+		 * @return a formatted message if the key has a translation, or the key
+		 *         itself otherwise
+		 */
+		public String softFormat(final String key, final Object... params) {
+			if(translation.containsKey(key)) {
+				String message = translation.getString(key);
+				return MessageFormat.format(message, params);
+			} else {
+				return key;
+			}
+		}
+
+		public String getMonth(final int index) {
+			return DateFormatSymbols.getInstance(request.getLocale()).getMonths()[index];
+		}
+	}
+}

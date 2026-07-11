@@ -12,7 +12,7 @@ AQC58k4VwBamD1rgTgARjiWF
     <text>Snapshot Files</text>
   </item>
   <item name="$Index" sign="true">
-    <text/>
+    <text>/R=43200</text>
   </item>
   <item name="$Formula" sign="true" summary="true">
     <formula compiled="true">
