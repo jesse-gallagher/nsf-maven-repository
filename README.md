@@ -6,7 +6,7 @@ Currently, the application is mostly a "dumb" repository: each NSF instance is a
 
 ### Requirements
 
-This application requires Domino 14 or above and the [XPages Jakarta EE Support project](https://github.com/OpenNTF/org.openntf.xsp.jakartaee/) version 3.6.0 or above.
+This application requires Domino 14 or above and the [XPages Jakarta EE Support project](https://github.com/OpenNTF/org.openntf.xsp.jakartaee/) version 3.7.0 or above.
 
 ### Usage
 
