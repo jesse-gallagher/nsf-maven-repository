@@ -2,7 +2,7 @@
 
 This project provides an NSF that can act as a basic Maven repository. It supports deployment and reading, and access control is handled via the database ACL and Domino's HTTP authentication.
 
-Currently, the application is a "dumb" repository: each NSF instance is a single repository, it has no support for proxying/caching from upstream repositories, and it has no automated processes to clean up snapshots over time. It takes the uploaded artifacts and XML metadata from the client and stores it as-is.
+Currently, the application is mostly a "dumb" repository: each NSF instance is a single repository, it has no support for proxying/caching from upstream repositories, it takes the uploaded artifacts and XML metadata from the client and stores them as-is.
 
 ### Requirements
 
@@ -10,7 +10,7 @@ This application requires Domino 14 or above and the [XPages Jakarta EE Support 
 
 ### Usage
 
-To use this application, deploy the NSF on your Domino server and configure its ACL as desired. The NSF contained a scheduled agent to prune snapshot versions other than the latest, and you should sign this and configure it to run on an appropriate server. It'd also be a good idea to make sure DAOS is on for the NSF (`load compact -DAOS on mvn.nsf`) and the design index is up to date for DQL (`load updall -e mvn.nsf`).
+To use this application, deploy the NSF on your Domino server and configure its ACL as desired. The NSF contains two scheduled agents to prune snapshot versions other than the latest and to auto-remove known "junk" files, and you should sign these and configure them to run on an appropriate server. It'd also be a good idea to make sure DAOS is on for the NSF (`load compact -DAOS on mvn.nsf`) and the design index is up to date for DQL (`load updall -e mvn.nsf`).
 
 By default, the repository will be available with a base URL of "http(s)://yourserver.com/path/to/repo.nsf/xsp/repository" and can be configured as such in Maven commands and configurations.
 
