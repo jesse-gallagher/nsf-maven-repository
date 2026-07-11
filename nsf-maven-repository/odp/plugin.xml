@@ -18,6 +18,8 @@
     <import optional="true" plugin="com.ibm.notes.java.api"/>
     <import optional="true" plugin="com.ibm.xsp.rcp"/>
     <import optional="true" plugin="org.openntf.xsp.jakartaee.core.library"/>
+    <import optional="true" plugin="org.openntf.xsp.jakartaee.ui.library"/>
+    <import optional="true" plugin="org.openntf.xsp.microprofile.library"/>
     <!--AUTOGEN-END-BUILDER: End of automatically generated section-->
   </requires>
 </plugin>

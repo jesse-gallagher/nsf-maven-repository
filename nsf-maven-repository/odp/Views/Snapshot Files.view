@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note class="view" xmlns="http://www.lotus.com/dxl">
+  <item name="$FormatNote" summary="true">
+    <rawitemdata type="4">
+AQC58k4VwBamD1rgTgARjiWF
+</rawitemdata>
+  </item>
+  <item name="$FormulaClass" sign="true">
+    <text>1</text>
+  </item>
+  <item name="$TITLE" sign="true">
+    <text>Snapshot Files</text>
+  </item>
+  <item name="$Index" sign="true">
+    <text>/R=43200</text>
+  </item>
+  <item name="$Formula" sign="true" summary="true">
+    <formula compiled="true">
+dAAFACoAJgAEAAYABwAJAAQAUGFyZW50JCRUaXRsZSRDb25mbGljdCRSRUYEAAQAAAA0AAUABABG
+b3JtAQAEAEZpbGUKAgUABgBQYXJlbnQBAAkALVNOQVBTSE9UAEgCHAIDAAcAEAAKAAlMMVM0UzVT
+OVM=
+</formula>
+  </item>
+  <item name="$Collation" summary="true">
+    <rawitemdata type="2">
+IQACAABEiGYHAAAGAIBmAAYABwBQYXJlbnQkJFRpdGxl
+</rawitemdata>
+  </item>
+  <item name="$ViewFormat" sign="true" summary="true">
+    <rawitemdata type="5">
+AQACAAQAiEAAAFZDAwQGAAYAAAAAACgAAQEACgABAAAAAAAAAAICAAAAVkMBAAcACQAAAAAAFgEB
+AAAKAAAAAAAAAAAAAgIAAABQYXJlbnRQYXJlbnQkJFRpdGxlRmlsZSBOYW1lJgABAAAAAQEACQEA
+AAoBAQ4KAAA/AK0rAQABAAEAAAAAAAAAAABXQwEFAAkAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAD/
+/wAAAAAAAAAAAAAAAAAAV0MBBQAJAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA//8AAAAAAAAAAAAA
+AAAAAEIAEQAAAAEA////AAEA7+/vAAEA////AAAAAAAAAAAAAQD///8AAQD///8AAAABAAAAAAAB
+AAAAAAABAAAAAAAAAAgAAAAAAAEA
+</rawitemdata>
+  </item>
+  <item name="$Comment" sign="true">
+    <text/>
+  </item>
+  <item name="$Flags">
+    <text>PY</text>
+  </item>
+  <item name="$DesignerBuild">
+    <text>Build V1451_03042026</text>
+  </item>
+  <item name="$V5ACTIONS" sign="true">
+    <rawitemdata type="1">
+vRwjAAAAAQABAAAAAQAAAAAAAAAAAAAACAACAHn/bAABANTQyAABAAAAAAAJAAAAAAABANTQyAAA
+AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=
+</rawitemdata>
+  </item>
+</note>

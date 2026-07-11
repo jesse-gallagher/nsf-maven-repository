@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note class="filter" xmlns="http://www.lotus.com/dxl">
+  <item name="$FILE" seal="true" sign="true" summary="true">
+    <object>
+      <file compression="none" encoding="none" flags="sign"
+        hosttype="msdos" name="%%source%%.jar" size="644">
+        <created>
+          <datetime dst="true">20260616T163630,65-04</datetime>
+        </created>
+        <modified>
+          <datetime dst="true">20260625T153540,94-04</datetime>
+        </modified>
+        <filedata>
+UEsDBBQACAgIAHR82VwAAAAAAAAAAAAAAAAOAAAASmF2YUFnZW50LmphdmGVU01v2zAMPXvA/oMQ
+9KAMnXZfkcPWD2AFtnZIgJ0VmUnlyZIn0Y2DIf99+nTtdhjWgy2TfI98lEnZdsYiafgjZ9Kweys1
+/rASwV68fSPnwTX66H6MjnFhWia3LfNna7RjPUoV8I0zmt36161PcMMFGnu8eB3rbtuAwFeQ7rl1
+U+3/JEQjsF72pAz2jtWmldqwdzHS9VslBRGKO0eCuE970EhgQNC1I9H6zB2Q3wFdTa6SmB5jiirn
+eDSyJt8MgvvKpabLQKkqjyIrsgeMqe567Hqky0Ss0B4TKsBYF5IrTReXRvvy+H5z7OAjQS/mQ6d8
+zkXgPQNnV3ytwTlpNHH5jHWzswCjjFhgQMKnxqrwWFGbI6Pc6ooj34bbqMvHapYjMC97a72nQEvd
+q3jr33vwLde/lCeWHExY4AgTwKwpD86IL7qGgS5ujG3j5+KcRMOfO64c5COTX/D8FHldIzOZ/8nd
+SFQwUs/Oov13bvoTcauIDAxw2VqFxpmSLokAV/qcL0ZheTydR5ZPy8B21rTBpM92kUntkGsB18P5
+vH4u5meOTpeeHHwhDQcyddJlHt8kLiObAn3y0cO8+6o5MD+eSS/N9SexnerdQ+k73dVsnA85dEoT
+dyKCo3gg9HoQ0GEYaijKIJHWyMXPjeUCqE+U6J4dntMfUEsHCJxgs2v2AQAACQUAAFBLAQIUABQA
+CAgIAHR82VycYLNr9gEAAAkFAAAOAAAAAAAAAAAAAAAAAAAAAABKYXZhQWdlbnQuamF2YVBLBQYA
+AAAAAQABADwAAAAyAgAAAAA=
+</filedata>
+      </file>
+    </object>
+  </item>
+  <item name="$FILE" seal="true" sign="true" summary="true">
+    <object>
+      <file compression="none" encoding="none" flags="sign"
+        hosttype="msdos" name="%%object%%.jar" size="1491">
+        <created>
+          <datetime dst="true">20260616T163630,67-04</datetime>
+        </created>
+        <modified>
+          <datetime dst="true">20260625T153540,94-04</datetime>
+        </modified>
+        <filedata>
+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
+AAAAgAUAAAAA
+</filedata>
+      </file>
+    </object>
+  </item>
+  <item name="$JavaCompilerSource" sign="true">
+    <text>1.8</text>
+  </item>
+  <item name="$JavaCompilerTarget" sign="true">
+    <text>1.8</text>
+  </item>
+  <item name="$AssistType" sign="true">
+    <number>65427</number>
+  </item>
+  <item name="$AssistLastRun" sign="true">
+    <rawitemdata type="400">
+AAAAAAAAAAA=
+</rawitemdata>
+  </item>
+  <item name="$AssistDocCount" sign="true">
+    <number>0</number>
+  </item>
+  <item name="$FlagsExt" sign="true">
+    <text>D</text>
+  </item>
+  <item name="$AssistFlags" sign="true">
+    <text>Es</text>
+  </item>
+  <item name="$AssistTrigger" sign="true">
+    <text>4</text>
+  </item>
+  <item name="$AssistInfo" sign="true">
+    <rawitemdata type="11">
+AQAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+</rawitemdata>
+  </item>
+  <item name="$AssistQuery" sign="true">
+    <rawitemdata type="f">
+gQYAAAAA
+</rawitemdata>
+  </item>
+  <item name="$AssistAction" sign="true">
+    <rawitemdata type="10">
+gQKT/04ADwANAB8AAQAAAAAAAABKYXZhQWdlbnQuY2xhc3NjOlxOb3Rlc1xEYXRhJSVzb3VyY2Ul
+JS5qYXIAJSVvYmplY3QlJS5qYXIAAAA=
+</rawitemdata>
+  </item>
+  <item name="$AssistAction_Ex" sign="true">
+    <rawitemdata type="14">
+gQI=
+</rawitemdata>
+  </item>
+  <item name="$Restricted" sign="true">
+    <number>1</number>
+  </item>
+  <item name="$Flags">
+    <text>fJj3</text>
+  </item>
+  <item name="$AssistRunInfo" summary="true">
+    <rawitemdata type="3">
+BgABAAAACAAiSQEAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAD6NrACGOJYXLyHoArIwlhQAAAAAAAAAAAAAAAAAAAAAAAAAAqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqq
+</rawitemdata>
+  </item>
+  <item name="$Comment" sign="true">
+    <text>Maintenance agent only intended to construct DQL index views once</text>
+  </item>
+  <item name="$TITLE" sign="true">
+    <text>Setup\Create DQL Indexes</text>
+  </item>
+  <item name="$DesignerBuild" sign="true">
+    <text>Build V1451_03042026</text>
+  </item>
+  <item name="$AssistVersion">
+    <datetime dst="true">20260627T140701,20-04</datetime>
+  </item>
+</note>

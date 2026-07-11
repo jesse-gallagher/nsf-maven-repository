@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <note class="view" xmlns="http://www.lotus.com/dxl">
-  <item name="$FormatNote" sign="true" summary="true">
+  <item name="$FormatNote" summary="true">
     <rawitemdata type="4">
-AQCU7G6FoWlsP/FjaADvdyWF
+AQC58k4VwBamD1rgTgARjiWF
 </rawitemdata>
   </item>
   <item name="$FormulaClass" sign="true">
     <text>1</text>
   </item>
   <item name="$TITLE" sign="true">
-    <text>(Files by Path)</text>
+    <text>Junk Files</text>
   </item>
   <item name="$Index" sign="true">
     <text/>
   </item>
   <item name="$Formula" sign="true" summary="true">
     <formula compiled="true">
-zAACAFAAAgAkNQUABgBQYXJlbnQFAAYAUGFyZW50AQABAC8ASAKvABgACgABAAAArgAOAAEAAQAv
-AK4ABAC1AyICBQAHACQkVGl0bGUAIgIDAAUAHgAZAAMAAgAJAAQAJDUkQ29uZmxpY3QkUkVGAAQA
-BAAAAEQABQAEAEZvcm0BAAQARmlsZQoCBQAEAEZvcm0BAAYARm9sZGVyCgIdAgQABQAJACRDb25m
-bGljdABoAR4BHAIDAAcAFAAOAAlMMVM1UzZTMTBTMTFT
+ugAFACoAJgAEAAYABwAJAAQAUGFyZW50JCRUaXRsZSRDb25mbGljdCRSRUYEAAQAAABuAAUABABG
+b3JtAQAEAEZpbGUKAgUABwAkJFRpdGxlAAEACQAuRFNfU3RvcmUAAQABAC4AHwIKAhwCBAAFAAQA
+Rm9ybQEABgBGb2xkZXIKAgUABwAkJFRpdGxlAAEAAQAuAAoCHAIEAB0CAwAHABwAFgAJTDFSVDVT
+NlMxMlMxM1JUMTdTMThT
 </formula>
   </item>
   <item name="$Collation" summary="true">
     <rawitemdata type="2">
-DwABAABEgGYAAAACACQ1
+IQACAABEiGYAAAAGAIBmAAYABwBQYXJlbnQkJFRpdGxl
 </rawitemdata>
   </item>
   <item name="$ViewFormat" sign="true" summary="true">
     <rawitemdata type="5">
-AQABAAYAiEAAAFZDAQACAAQAbAAAAFAAAQAACgAAAAAAAAAAAAICAAAAJDVQYXRobAACAFAAAgAk
-NQUABgBQYXJlbnQFAAYAUGFyZW50AQABAC8ASAKvABgACgABAAAArgAOAAEAAQAvAK4ABAC1AyIC
-BQAHACQkVGl0bGUAIgIDAAcAGgATAAkxUzJTOFMxMVMxM1MxNVMxNlMAJgABAAAAAQEACQEAAAoB
-AQ4KAAA/AK0rAQABAAEAAAAAAAAAAABXQwEBAAkAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAD//wAA
-AAAAAAAAAAAAAAAAQgARAAAAAQD///8AAQDv7+8AAQD///8AAAAAAAAAAAABAP///wABAP///wAA
-AAEAAAAAAAEAAAAAAAEAAAAAAAAACAAAAAAAAQA=
+AQACAAIAiEAAAFZDAQAGAAYAAAAAAC4BAQAACgABAAAAAAAAAAICAAAAVkMBAAcACQAAAAAAFgEB
+AAAKAAAAAAAAAAAAAgIAAABQYXJlbnRQYXJlbnQkJFRpdGxlRmlsZSBOYW1lJgABAAAAAQEACQEA
+AAoBAQ4KAAA/AK0rAQABAAEAAAAAAAAAAABXQwEFAAkAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAD/
+/wAAAAAAAAAAAAAAAAAAV0MBBQAJAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA//8AAAAAAAAAAAAA
+AAAAAEIAEQAAAAEA////AAEA7+/vAAEA////AAAAAAAAAAAAAQD///8AAQD///8AAAABAAAAAAAB
+AAAAAAABAAAAAAAAAAgAAAAAAAEA
 </rawitemdata>
+  </item>
+  <item name="$Comment" sign="true">
+    <text/>
   </item>
   <item name="$Flags">
     <text>PY</text>
+  </item>
+  <item name="$DesignerBuild">
+    <text>Build V1451_03042026</text>
   </item>
   <item name="$V5ACTIONS" sign="true">
     <rawitemdata type="1">
@@ -47,11 +53,5 @@ AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=
 </rawitemdata>
-  </item>
-  <item name="$Comment" sign="true">
-    <text>Used by the NSF File Server layout</text>
-  </item>
-  <item name="$DesignerBuild" sign="true">
-    <text>Build V1451_03042026</text>
   </item>
 </note>

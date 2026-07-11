@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note class="filter" xmlns="http://www.lotus.com/dxl">
+  <item name="$AssistVersion">
+    <datetime dst="true">20260627T140725,00-04</datetime>
+  </item>
+  <item name="$TITLE" sign="true">
+    <text>Maintenance\Purge Junk Files</text>
+  </item>
+  <item name="$AssistType" sign="true">
+    <number>65412</number>
+  </item>
+  <item name="$AssistLastRun" sign="true">
+    <rawitemdata type="400">
+AAAAAAAAAAA=
+</rawitemdata>
+  </item>
+  <item name="$AssistDocCount" sign="true">
+    <number>0</number>
+  </item>
+  <item name="$Comment" sign="true">
+    <text>Maintenance agent that deletes all documents in the Junk Files view</text>
+  </item>
+  <item name="$FlagsExt" sign="true">
+    <text/>
+  </item>
+  <item name="$AssistFlags" sign="true">
+    <text>Es</text>
+  </item>
+  <item name="$MachineName" sign="true">
+    <text>CN=Kalgan/O=Frost</text>
+  </item>
+  <item name="$AssistTrigger">
+    <text>1</text>
+  </item>
+  <item name="$AssistInfo" sign="true">
+    <rawitemdata type="11">
+AQABAAEAAwABAID8CgABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+</rawitemdata>
+  </item>
+  <item name="$AssistQuery" sign="true">
+    <rawitemdata type="f">
+gQYAAAAAiP8UAAAAAAAKAEp1bmsgRmlsZXM=
+</rawitemdata>
+  </item>
+  <item name="$AssistAction" sign="true">
+    <rawitemdata type="10">
+gQKE/ygAAAAAAB4AHgAIAAgAvQADAAAACABmAAMABwAMAAYACTBSTDFT
+</rawitemdata>
+  </item>
+  <item name="$AssistAction_Ex" sign="true">
+    <rawitemdata type="14">
+gQI=
+</rawitemdata>
+  </item>
+  <item name="$Restricted" sign="true">
+    <number>1</number>
+  </item>
+  <item name="$Flags">
+    <text>f3S</text>
+  </item>
+  <item name="$DesignerBuild">
+    <text>Build V1451_03042026</text>
+  </item>
+  <item name="$AssistRunInfo" summary="true">
+    <rawitemdata type="3">
+BgABAAAACAAyHAcAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAVI5jACOOJYXLyHoArIwlhQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAOsH
+AAABAAAAAAACAGPbYo2AAwAAAAACALDxfQCGfCUAAAAAAP///wBUBAAAZwMAAAEAAABqQVsAcXwl
+AGpBWwAeCyYAAAAGAE89SUtTRwAABgBPPUlLU0cAACYCMIICIjANBgkqhkiG9w0BAQEFAAOCAg8A
+MIICCgKCAgEAkKwXNrMJm/QLNlZbO+0wA2A+RFchT+A+UfVTNGarmFd3N905zBIomoJNXX2/wDMk
+SKBTY3yROAguPQgoo6cRKPDls+fYaPABEO7wI7U0FFw5ociL8Ny3zb3SWSe0aBVyNC21fqTsb9KP
+x4DcGgjGu/Sx9EgNcTdeRXBrNRthrAs5PFembCg2DEGVbS8GEJ+VOW1lH4mxcJq8iGfmKdxnB+zt
+jsFn2IXdJ6gdP5p8KWXG2/NH/vU6Np0LjBuc3DAk1Izo4pY5SM93FZ5dlKGXrEpNwTy67ehfljRt
+Rf3qPlxE1gtL6PwsO3qbIyjWTl1Ehc063jNfSCnudWE1FdCHYGsn/AhGdhPr4qa8wqTk8VUU/M3/
+qvp+w8bcC3KmzbEYqllUXq7YY90pFBlkXvcLc4yH0wcKyPeM/2Jt4465vGaWTxVrgZfJ8Hy1QDZY
+94HrClkT/vVGVuoMuw9bvx5Avobb17q4eFJRCVxT1g+oglqqbIdA7NnxEv2d1KMw5KFWSwNRnOw+
+7z9gHz1SWuOopTiISX5OqPMC1IKfG4JrLME3iNOVMg5tk4oaYYGoUChZOItXYrXqJW3LBXmRBxyS
+5KwLLTJnZInK8ThAyTLlH9bMnkMqrNttcPj4qMUGD/h/ypMrI6A95ZgiHdeBjyGYdAsdGBSWlgqJ
+dBvwlvkTK5ECAwEAAQACFUJqYaul0tuvOn6syPw+8UcPD67wYZ4mcuhRZwcFBIj9oS26huUq2wZ/
+ozeeLv2ltegyemtmsGtst5yDxV9RnE7NQg8KOn+6EYVUgDfGNLRaUJ4oPvWY1XB4BqsC+D3vmaB1
+W7EdDCCEbJbhVf8xap9DUs6OQOBpbaX2+gmTY1Hl1LWaPu/r4a50wpbtvGqqByss1C0bS4vI9WAQ
+z4OwOBx3Ot+bRj5NqbH3QtauglYivhRWHr5WzlZ//tDy22RT0ZxyqPI7pbu9JK1w5ibQKbFuNORh
+77oXy/lwvnZTxlFcH5vxCK5pKU3exXtsE7GHIfItUlFdkBqxRCda9ZXVmnd+bnCWIUfagpqaicDn
+Gy/Aos0oGUqRh5t7QmZ28nXv
+</rawitemdata>
+  </item>
+</note>
