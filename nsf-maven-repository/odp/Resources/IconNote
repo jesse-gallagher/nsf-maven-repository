@@ -16,26 +16,25 @@ EREdd3fRERER8AAAAAAA////Ed3dEf///wAAAAAAAAAAAPERER8AAAAAAAAAAAAAAAAP///wAAAA
 AAAAUEECICABAAD/////+A4DgA==
 </rawitemdata>
   </item>
-  <item name="$DefaultFrameset">
-    <text>Outer Frame</text>
+  <item name="$LaunchXPageRunOnServer">
+    <text>0</text>
+  </item>
+  <item name="$Daos">
+    <text>1</text>
   </item>
   <item name="$LargeSummary">
     <text>0</text>
   </item>
-  <item name="$LaunchXPageRunOnServer">
-    <text>0</text>
-  </item>
-  <item name="$FlagsNoRefresh">
-    <text/>
+  <item name="$DefaultFrameset">
+    <text>Outer Frame</text>
   </item>
   <item name="$TITLE">
-    <text>Maven Repository
-</text>
+    <text>Maven Repository</text>
   </item>
   <item name="$Flags">
-    <text>J7FK42ZqNz</text>
+    <text>Jz247qNZFK</text>
   </item>
-  <item name="$Daos">
-    <text>1</text>
+  <item name="$FlagsNoRefresh">
+    <text>rv</text>
   </item>
 </note>
